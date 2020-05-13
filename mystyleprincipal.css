@@ -1,0 +1,114 @@
+		body {
+			background-image: url("images/fondo1.jpg");
+			background-repeat: repeat;
+			background-attachment: fixed;
+			background-size: cover;
+			font-size: 2vw;
+			}
+		h1 {
+			background-color:#e4eced;
+			border-color: #2b2b2b;
+			border-style: ridge;
+			border-width: 1.171875vw;
+			border-radius: 1.5625vw;
+			padding:2%;
+			max-width: 50%;
+			margin-left: auto;
+			margin-right: auto;
+			font-family: 'Times New Roman', serif;
+			font-size: 3em;
+			font-weight: bold;
+			text-align: center;
+			text-transform: capitalize;
+			margin-bottom: -2%;
+			  }
+		p {
+			background-color:#333;
+			border-right-style: ridge;
+			border-top-style: ridge;
+			border-left-style:solid;
+			border-width: 0.15625vw;
+			border-left-width: 1.171875vw;
+			color: white;
+			border-color: #2b2b2b;
+			border-left-color:#4CAF50;
+			padding:2%;
+			margin-bottom:0;
+			}
+		#T1 {
+			margin-top: -145%;
+			max-width: 33%;
+			}
+		#navigationbar {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: #333;
+			}
+
+		#nvb1 {
+			float: left;
+			}
+
+		#nvb2 {
+			display: block;
+			color: white;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+			}
+		#nvb2:hover {
+			background-color: #111;
+			}
+		#simplelinks{
+			color: #4bdbdb;
+		}
+		#textlist{
+			margin-top: 0;
+			border-top: none;
+			border-bottom: none;
+			background-color:#333;
+			border-right-style: ridge;
+			border-left-style:solid;
+			border-width: 0.15625vw;
+			border-left-width: 1.171875vw;
+			color: white;
+			border-color: #2b2b2b;
+			border-left-color:#4CAF50;
+			padding:2%;
+			margin-bottom:0;
+		}
+		.active {
+			background-color: #4CAF50;
+			}
+		.timages {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 70%;
+			border: 0.75vw ridge #ddd;
+		}
+		.timages:hover {
+			box-shadow: 0 0 1vw 0.5vw #4CAF50;
+		}
+		.limages {
+			height:16vw;
+			width: 33vw; 
+			margin: 0 0 1vw 1vw;
+		}
+		.limages2 {
+			height:26vw;
+			width: 49vw; 
+			margin: 0 0 1vw 1vw;
+			}
+		.images {
+			height:33vw;
+			width: 55vw; 
+		}
+		.limages:hover {
+			box-shadow: 0 0 1vw 0.5vw #4CAF50;
+		}
+		.limages2:hover {
+			box-shadow: 0 0 1vw 0.5vw #4CAF50;
+		}
